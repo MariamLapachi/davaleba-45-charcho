@@ -1,0 +1,21 @@
+#boxfirst {
+    height: 168px;
+    width: 305px;
+    border: 1px solid #DB00FF;
+}
+#boxsecond {
+    height: 121px;
+    width: 657px;
+    border: 1px dashed #450e45;
+}
+#boxthird {
+    height: 95px;
+    width: 399px;
+    border: 3px dashed #04FF4A;
+}
+#boxfourth {
+    height: 173px;
+    width: 1097px;
+    background-color: #247DAF;
+    border: 3px dashed #736E42;
+}
